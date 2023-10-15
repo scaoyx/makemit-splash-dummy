@@ -1,3 +1,3 @@
-# makemit-splash2020
+# makemit-splash-dummy
 
-Splash page for MakeMIT 2020
+Practice Splash page for MakeMIT
